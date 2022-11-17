@@ -15,7 +15,7 @@
                   "coupling",
                   {
                     "@renku_data_type": "renku.domain_model.dataset.Dataset",
-                    "@renku_oid": "e43dd5b001a00560ec021b87121efe72be15ddd63dcdd827d6b3a01ef795dedb",
+                    "@renku_oid": "bf76ba531efbd5ac0a1efa987e3e1581ffdf8e00e1ab995871f3b23adc3444f9",
                     "@renku_reference": true
                   },
                   "elastic_properties",
