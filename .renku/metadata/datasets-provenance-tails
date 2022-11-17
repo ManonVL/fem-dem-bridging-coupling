@@ -12,10 +12,10 @@
               {
                 "@renku_data_type": "builtins.tuple",
                 "@renku_data_value": [
-                  "/datasets/dbf61cf261234a38af92350d740e0cbd",
+                  "/datasets/861f510dd5394823bdb364a8553f7f14",
                   {
                     "@renku_data_type": "renku.domain_model.dataset.Dataset",
-                    "@renku_oid": "b8c5fe87d027320a3a7fc65927223583e03b25a5b348f47de125ce26101b1624",
+                    "@renku_oid": "17fbca2345a0f4dbde82599c52f01ca2be7c0f0a698277ee4a7b78ce1b8f2708",
                     "@renku_reference": true
                   }
                 ]
