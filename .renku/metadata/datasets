@@ -15,7 +15,7 @@
                   "elastic_properties",
                   {
                     "@renku_data_type": "renku.domain_model.dataset.Dataset",
-                    "@renku_oid": "17fbca2345a0f4dbde82599c52f01ca2be7c0f0a698277ee4a7b78ce1b8f2708",
+                    "@renku_oid": "3962d22dceebfc73d1cb54be856e4db8515fb98a9e7238dd31041299c6c2227a",
                     "@renku_reference": true
                   }
                 ]
