@@ -17,6 +17,12 @@
                     "@renku_data_type": "renku.domain_model.dataset.Dataset",
                     "@renku_oid": "b947e2a2ea08feb3de2d6d97c28205423b17c878de581bd190645e58e009bbb2",
                     "@renku_reference": true
+                  },
+                  "/datasets/6b450b0497364a059cc4794b97765477",
+                  {
+                    "@renku_data_type": "renku.domain_model.dataset.Dataset",
+                    "@renku_oid": "fe125438042727c6018627ff078d08f9683629dbc4a67973a092133bce20a1d0",
+                    "@renku_reference": true
                   }
                 ]
               }

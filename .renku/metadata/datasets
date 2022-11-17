@@ -12,6 +12,12 @@
               {
                 "@renku_data_type": "builtins.tuple",
                 "@renku_data_value": [
+                  "coupling",
+                  {
+                    "@renku_data_type": "renku.domain_model.dataset.Dataset",
+                    "@renku_oid": "fe125438042727c6018627ff078d08f9683629dbc4a67973a092133bce20a1d0",
+                    "@renku_reference": true
+                  },
                   "elastic_properties",
                   {
                     "@renku_data_type": "renku.domain_model.dataset.Dataset",
